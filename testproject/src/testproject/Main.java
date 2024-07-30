@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("mingi Edit mingi -> main");
+		System.out.println("mingi Edit mingi -> main checking");
 
 	}
 
